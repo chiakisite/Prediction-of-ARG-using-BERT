@@ -1,0 +1,36 @@
+>Cluster 0
+0	469aa, >YP_001844878|FEATUR... *
+>Cluster 1
+0	443aa, >NP_249649.1|FEATURE... *
+>Cluster 2
+0	399aa, >AAM15533.1|FEATURES... *
+>Cluster 3
+0	377aa, >AIA17591.1|FEATURES... *
+>Cluster 4
+0	375aa, >AAK21274.1|FEATURES... at 94.67%
+1	376aa, >AAK21275.1|FEATURES... *
+2	375aa, >AAK21277.1|FEATURES... at 94.40%
+3	375aa, >AAK11270.1|FEATURES... at 94.93%
+4	375aa, >AAK21276.1|FEATURES... at 94.93%
+>Cluster 5
+0	374aa, >AAP82271|FEATURES|C... *
+>Cluster 6
+0	374aa, >CAA09666|FEATURES|C... *
+>Cluster 7
+0	365aa, >CBA29682.1|FEATURES... *
+>Cluster 8
+0	363aa, >NP_459974.1|FEATURE... *
+>Cluster 9
+0	362aa, >NP_415449.1|FEATURE... *
+>Cluster 10
+0	357aa, >AGS59331.1|FEATURES... *
+>Cluster 11
+0	348aa, >AAB57788.1|FEATURES... *
+>Cluster 12
+0	331aa, >NP_275030.1|FEATURE... *
+>Cluster 13
+0	308aa, >ABR76392.1|FEATURES... *
+>Cluster 14
+0	197aa, >NP_388196|FEATURES|... at 99.49%
+1	199aa, >BAA02945|FEATURES|A... *
+2	197aa, >CAB12108.2|FEATURES... at 100.00%
